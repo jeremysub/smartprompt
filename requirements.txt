@@ -1,0 +1,7 @@
+setuptools
+pydantic
+azure-storage-blob
+azure-core
+python-dotenv
+openai
+pytest
